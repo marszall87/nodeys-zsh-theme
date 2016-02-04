@@ -75,4 +75,4 @@ ${git_info} \
 %{$terminfo[bold]$fg[red]%}$ %{$reset_color%}"
 fi
 
-RPROMPT="$(nvm_prompt_info)"
+RPROMPT="${nvm_prompt_info}"
