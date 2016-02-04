@@ -45,7 +45,7 @@ ys_hg_prompt_info() {
 }
 
 # NVM info
-ZSH_THEME_NVM_PROMPT_PREFIX="%{$fg[green]%}<2b22> "
+ZSH_THEME_NVM_PROMPT_PREFIX="%{$fg[green]%}⬢ "
 ZSH_THEME_NVM_PROMPT_SUFFIX=""
 
 # Prompt format: \n # USER at MACHINE in DIRECTORY on git:BRANCH STATE [TIME] \n $ 
