@@ -45,7 +45,7 @@ ys_hg_prompt_info() {
 }
 
 # NVM info
-local nvm_info='$(nvm_info)'
+local nvm_info='$(nvm_prompt_info)'
 ZSH_THEME_NVM_PROMPT_PREFIX="%{$fg[green]%}⬢ "
 ZSH_THEME_NVM_PROMPT_SUFFIX=""
 
